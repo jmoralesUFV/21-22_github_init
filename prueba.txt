@@ -1,3 +1,5 @@
 Hola mundo !!
 
-Seguimos haciendo commits
+Seguimos haciendo commits en nuestra primera clase de git
+
+-am con varios ficheros modificados
